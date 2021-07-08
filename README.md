@@ -17,4 +17,9 @@ Monobehaviour component. Find all lights of a given type in the current scene an
 
 ### GameObjectDrawPool.cs  
 https://www.noveltech.dev/unity-object-draw-pool  
-Define a pool of gameobject with assigned probabilities and allow for single and multiple draw  
+Define a pool of gameobject with assigned probabilities and allow for single and multiple draw    
+
+
+### CameraShaker.cs  
+https://www.noveltech.dev/camera-shake  
+Implementing a simple camera shake function from scratch.
