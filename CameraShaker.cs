@@ -35,8 +35,7 @@ public class CameraShaker : MonoBehaviour
             displacement.x = ((float)_mRand.NextDouble()) * 2f - 1f;
             displacement.y = ((float)_mRand.NextDouble()) * 2f - 1f;
             
-            //transform.position = mReferencePosition + displacement * mShakeStrength;
-            transform.position += displacement * mShakeStrength;
+            transform.position = mReferencePosition + displacement * mShakeStrength;
 
 
             yield return null;
