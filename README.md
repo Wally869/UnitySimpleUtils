@@ -23,3 +23,11 @@ Define a pool of gameobject with assigned probabilities and allow for single and
 ### CameraShaker.cs  
 https://www.noveltech.dev/camera-shake  
 Implementing a simple camera shake function from scratch.
+
+
+### TextureWriter.cs   
+https://www.noveltech.dev/unity-write-array-to-texture   
+Writing a 2D array of floats or Vector3 to a Texture2D, and writing the Texture2D to a png file in the Resources folder    
+
+
+
