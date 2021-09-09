@@ -30,4 +30,7 @@ https://www.noveltech.dev/unity-write-array-to-texture
 Writing a 2D array of floats or Vector3 to a Texture2D, and writing the Texture2D to a png file in the Resources folder    
 
 
+### MissingComponentRemover.cs  
+https://www.noveltech.dev/unity-object-draw-pool    
+Removing empty components from a list of GameObjects and their children.  
 
