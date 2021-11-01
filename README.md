@@ -34,3 +34,11 @@ Writing a 2D array of floats or Vector3 to a Texture2D, and writing the Texture2
 https://www.noveltech.dev/unity-clean-components    
 Removing empty components from a list of GameObjects and their children.  
 
+
+### ArrayFlattener.cs  
+https://www.noveltech.dev/csharp-flatten-array  
+Flatten or unflatten a 2D array. 
+
+
+
+
