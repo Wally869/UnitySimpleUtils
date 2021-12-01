@@ -21,7 +21,7 @@ public class DrawForward : MonoBehaviour
 
     private void OnDrawGizmos()
     {
-        Gizmos.DrawLine(transform.position, transform.forward * 5f + transform.position);
+        Gizmos.DrawLine(transform.position, transform.forward * mLenLine + transform.position);
 
     }
 }
